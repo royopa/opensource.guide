@@ -1,0 +1,29 @@
+nav:
+  about: Sobre
+  contribute: Contribua
+
+index:
+  lead: Software de código aberto é feito por pessoas como você. Aprenda como iniciar e expandir seu projeto.
+
+article:
+  table_of_contents: Índice
+
+footer:
+  contribute:
+    heading: Contribua
+    description: Quer sugerir algo? Este conteúdo é open source. Nos ajude a melhorá-lo.
+    button: Contribua
+  subscribe:
+    heading: Fique atualizado
+    description: Seja o primeiro a ouvir sobre as últimas dicas e recursos do GitHub sobre open source.
+    label: Endereço de email
+    button: Assinar
+  byline:
+    # [code], [love], and [github] will be replaced by octicons
+    format: "[code] com [love] pelo [github] e [friends]"
+    # Label for code octicon
+    code_label: código
+    # Label for love octicon
+    love_label: amor
+    # Label for the contributors link
+    friends_label: amigos 
