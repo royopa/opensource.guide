@@ -1,8 +1,8 @@
-title: "Open Source Guides"
-description: "Learn how to launch and grow your project."
+title: "Os Guias do Open Source"
+description: "Aprenda como iniciar e expandir seu projeto."
 
 # See: docs/translations.md
-locale: en-US
+locale: pt-BR
 translations:
   en-US:
     name: English (US)
