@@ -39,7 +39,7 @@ Mesmo se você não usar parágrafos completos, anotar alguns pontos em tópicos
 
 Comece escrevendo os objetivos do seu projeto. Adicione-os ao seu README, ou crie um arquivo separado chamado VISION. Se houver outros artefatos que possam ajudar, como um roteiro do projeto, também torne-os públicos.
 
-Ter uma visão clara e documentada mantém você focado e ajuda a evitar o "scope creep" (alterações não necessárias) das contribuições de terceiros.
+Ter uma visão clara e documentada mantém você focado e ajuda a evitar o "scope creep" (crescimento descontrolado do projeto) quando receber contribuições de terceiros.
 
 Por exemplo, @lord descobriu que ter uma visão do projeto o ajudou a descobrir em quais das requisições ele investiria seu tempo. Como um mantenedor recente, ele se arrepende de não ter se mantido dentro do escopo do seu projeto quando ele recebeu o primeiro pedido de nova funcionalidade para o [Slate](https://github.com/lord/slate).
 
